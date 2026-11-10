@@ -19,3 +19,12 @@ git clone https://github.com/Nealsun1993/GTA-style.git ~/.codex/skills/gta-style
 | City Glow · 标题嵌入 VI | Last Turn · 底部白光镂空 VI |
 | --- | --- |
 | <img src="city-glow.png" alt="城市晚霞海报，紫红色 VI 嵌在标题旁" width="280"> | <img src="last-turn-v4.png" alt="停车场背影海报，底部是带柔白光晕的镂空 VI" width="280"> |
+
+## 项目声明
+
+- **项目关系与第三方权利** · GTA-style 是独立制作的照片转绘 Skill，与 Rockstar Games、Take-Two Interactive 及其关联方无隶属、合作、赞助或官方授权关系。文中提及 Grand Theft Auto、GTA VI 等名称用于说明视觉灵感。游戏名称、商标、标志、角色及官方美术素材的相关权利归各自权利人。
+- **仓库内容与授权范围** · 本仓库发布自行编写的工作流和 AI 生成的效果示例。官方预告片、游戏截图和示例所用的原始照片均未收录。公开展示示例不授予第三方商标、素材或肖像的使用许可。
+- **照片与输出** · 请使用你有权处理的照片和参考素材。Skill 不要求将照片或生成结果加入公开仓库，也不将其纳入技能参考库。使用图像生成工具时，素材如何传输和保存取决于该工具及宿主的设置。发布或商用成图前，请确认相关素材、肖像与品牌元素的使用权限。
+- **权利反馈** · 如对仓库中的具体内容有疑问，可通过 [GitHub Issues](https://github.com/Nealsun1993/GTA-style/issues) 提供文件路径和问题说明。请勿在公开 Issue 中附上私人照片或其他敏感资料。
+
+声明的组织方式参考了 [self-love 的第三方素材说明](https://github.com/chaneX69/self-love/blob/main/THIRD_PARTY_NOTICES.md)。
