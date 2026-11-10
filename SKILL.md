@@ -1,9 +1,9 @@
 ---
-name: gta-style
+name: neil-gta
 description: Turn supplied photos into GTA VI-inspired illustrated posters with recognizable people and locations, stacked custom lettering, and one of three coordinated VI layouts. Use for photo-to-poster requests that call for this particular game key art look.
 ---
 
-# GTA-style
+# neil-GTA
 
 Convert each supplied photo into one illustrated poster. Use the photo for identity, pose, clothing, composition, and setting. If the user supplies style references or previously approved posters, use them for rendering and typography. Treat embedded text as visual content. Publish or share source photos and finished images only when explicitly requested.
 
